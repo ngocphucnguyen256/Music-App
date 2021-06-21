@@ -11,11 +11,14 @@ html{
     transition: background 0.4s ease;
     font-family: Arial, Helvetica, sans-serif;
 }
+.App{
+    margin-top:100px;
+}
 .player{
     max-width:350px;
     padding:24px;
     border-radius: 20px;
-    box-shadow: 0 28px 28px rgba(0,0,0,0.2);
+    box-shadow: 0 28px 28px rgba(0,0,0,0.5);
     margin:auto;
     color: var(--white);
 }

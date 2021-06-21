@@ -1,7 +1,6 @@
 import React, {useState, useEffect, useRef} from 'react';
 import AudioControl from "./AudioControl.jsx";
 import Backdrop from "./Backdrop";
-import tracks from "./tracks"
 import "./styles.css";
 
 
@@ -12,7 +11,7 @@ const Player =({tracks})=>{
     const [isPlaying, setIsPlaying] = useState(false);
 
 
-    const {title, artist, color, image, audioSrc}=tracks[trackIndex];
+    const {title, artist, color, img, audioSrc}=tracks[trackIndex];
     //Ref
     const audioRef=useRef(new Audio(audioSrc));
     const intervalRef=useRef();
@@ -97,9 +96,8 @@ const Player =({tracks})=>{
         <div className="player">
             <div className="track-info">
                 <img className="artwork"
-                src={image}
-                alt={`track artwork for ${title} by ${artist}`}
-                width="400" height="500"/>
+                src={img}
+                alt={`track artwork for ${title} by ${artist}`}/>
                 <h2 className="title">{title}</h2>
                 <h3 className="artist">{artist}</h3>
                 <AudioControl isPlaying={isPlaying}

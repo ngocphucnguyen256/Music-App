@@ -1,4 +1,4 @@
-import './App.css';
+
 import Player from './Player';
 import tracks from './tracks';
 

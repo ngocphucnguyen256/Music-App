@@ -10,14 +10,14 @@ const tracks= [
   {
     title: "Demons",
     artist: "Imagine Dragons",
-    audioScr: Demons,
+    audioSrc: Demons,
     img: DemonsImg,
     color: "#00aeb0",
   },
   {
     title: "Courage to change",
     artist: "Sia",
-    audioScr: CourageToChange,
+    audioSrc: CourageToChange,
     img: CourageToChangeImg,
     color: "#ffb77a",
   },
@@ -29,6 +29,4 @@ const tracks= [
     color: "#5f9fff",
   },
 ];
-
-
 export default tracks;
