@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Music-App/static/css/main.6412d66b.chunk.css",
+    "main.js": "/Music-App/static/js/main.c678811d.chunk.js",
+    "main.js.map": "/Music-App/static/js/main.c678811d.chunk.js.map",
+    "runtime-main.js": "/Music-App/static/js/runtime-main.a3cddc90.js",
+    "runtime-main.js.map": "/Music-App/static/js/runtime-main.a3cddc90.js.map",
+    "static/js/2.e245eed3.chunk.js": "/Music-App/static/js/2.e245eed3.chunk.js",
+    "static/js/2.e245eed3.chunk.js.map": "/Music-App/static/js/2.e245eed3.chunk.js.map",
+    "static/js/3.f17a0493.chunk.js": "/Music-App/static/js/3.f17a0493.chunk.js",
+    "static/js/3.f17a0493.chunk.js.map": "/Music-App/static/js/3.f17a0493.chunk.js.map",
+    "index.html": "/Music-App/index.html",
+    "static/css/main.6412d66b.chunk.css.map": "/Music-App/static/css/main.6412d66b.chunk.css.map",
+    "static/js/2.e245eed3.chunk.js.LICENSE.txt": "/Music-App/static/js/2.e245eed3.chunk.js.LICENSE.txt",
+    "static/media/Birds.2b3bde59.jpg": "/Music-App/static/media/Birds.2b3bde59.jpg",
+    "static/media/CanWeKissForever.bb35352d.jpg": "/Music-App/static/media/CanWeKissForever.bb35352d.jpg",
+    "static/media/CourageToChange.895d57fc.jpg": "/Music-App/static/media/CourageToChange.895d57fc.jpg",
+    "static/media/Demons.64643fe4.jpg": "/Music-App/static/media/Demons.64643fe4.jpg",
+    "static/media/Freak.f6bbe40f.png": "/Music-App/static/media/Freak.f6bbe40f.png",
+    "static/media/Imagine Dragons - Birds.fae5a31b.mp3": "/Music-App/static/media/Imagine Dragons - Birds.fae5a31b.mp3",
+    "static/media/Imagine Dragons - Demons.88274c58.mp3": "/Music-App/static/media/Imagine Dragons - Demons.88274c58.mp3",
+    "static/media/Kina - Can We Kiss Forever (ft. Adriana Proenza).03e1b60f.mp3": "/Music-App/static/media/Kina - Can We Kiss Forever (ft. Adriana Proenza).03e1b60f.mp3",
+    "static/media/Sia - Courage To Change.cde37ee3.mp3": "/Music-App/static/media/Sia - Courage To Change.cde37ee3.mp3",
+    "static/media/Sub Urban - Freak (feat. REI AMI).4adcf3f2.mp3": "/Music-App/static/media/Sub Urban - Freak (feat. REI AMI).4adcf3f2.mp3",
+    "static/media/next-track-button.437d56bb.svg": "/Music-App/static/media/next-track-button.437d56bb.svg",
+    "static/media/pause.e47216ce.svg": "/Music-App/static/media/pause.e47216ce.svg",
+    "static/media/play.1b4fe477.svg": "/Music-App/static/media/play.1b4fe477.svg",
+    "static/media/previous-track-button.9348a9de.svg": "/Music-App/static/media/previous-track-button.9348a9de.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3cddc90.js",
+    "static/js/2.e245eed3.chunk.js",
+    "static/css/main.6412d66b.chunk.css",
+    "static/js/main.c678811d.chunk.js"
+  ]
+}
